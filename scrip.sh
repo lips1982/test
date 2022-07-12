@@ -40,4 +40,4 @@ sed -i "s|REEMPLAZARACCNAME|${accname}|g" mainStart.py
 ls
 python3 mainStart.py
 echo "SCRIP FINALIZANDO--- LANZANDO PYTHON ----"
-exit
+python3 mainSpotyfi_01_ListasReproduccionEntrenamiento.py
