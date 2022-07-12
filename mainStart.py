@@ -10,6 +10,7 @@ from threading import Thread, Barrier
 
 
 hilos=1
+#hilos
 
 db=MongoDB()
 db.iniciarDB()
