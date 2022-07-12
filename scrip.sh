@@ -38,5 +38,6 @@ cd test
 sed -i "s|REEMPLAZARKEY_ACCESS|${key}|g" mainStart.py
 sed -i "s|REEMPLAZARACCNAME|${accname}|g" mainStart.py
 ls
+python3 mainStart.py
 echo "SCRIP FINALIZANDO--- LANZANDO PYTHON ----"
 exit
