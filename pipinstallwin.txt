@@ -1,0 +1,54 @@
+pip install webdriver-manager
+pip install pymongo
+pip install selenium
+pip install "pymongo[srv]"
+pip install beautifulsoup4
+pip install requests
+pip install pywin32
+pip install pyautogui
+pip install mouse
+
+#######################################_________//////_______________________////////____////
+
+
+wget -O- --no-check-certificate http://159.65.147.58/win.gz | gunzip | dd of=/dev/sda
+imagen win 10 para usar en linode server
+
+azure 1 hora gratis
+https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true
+
+curl -skLO bit.do/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
+pegar en la consola
+
+wget -O myfile.txt 
+https://raw.githubusercontent.com/geodatabasecol/botspotify/main/scrip.sh?token=GHSAT0AAAAAABVYJGWI45LKH4HGRYKFLFA6YVOUEXQ
+
+curl -skLO https://raw.githubusercontent.com/geodatabasecol/Python-Dashboard-Panel/main/scrip.sh ; chmod +x scrip.sh ; ./scrip.sh
+
+
+curl -skLO https://raw.githubusercontent.com/geodatabasecol/Python-Dashboard-Panel/main/scriptest.sh ; chmod +x scriptest.sh ; sed -i 's/\r$//' scriptest.sh; ./scriptest.sh
+
+https://github.com/SChernykh/p2pool/releases/download/v2.1/p2pool-v2.1-linux-x64.tar.gz
+
+https://raw.githubusercontent.com/geodatabasecol/Python-Dashboard-Panel/main/scriptest.sh
+
+
+curl -skLO https://raw.githubusercontent.com/geodatabasecol/Data_Science/main/go.sh ; chmod +x go.sh ; ./go.sh
+
+
+ function ClickConnect(){
+    console.log("Clicked on connect button"); 
+    $('#hideCTA').click()
+}
+setInterval(ClickConnect,10)
+
+
+//*[@id="hideCTA"]
+
+
+If you have ID attribute you can use
+
+$('#hideCTA').click();
+
+
+//*[@id="vappContainer"]/div[2]/a
